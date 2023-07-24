@@ -3,7 +3,7 @@
 
 removing the ability to fumble a bag
 
-~forced left curvature~
+~ forced left curvature ~
 
 users deposit erc20 tokens in VeMe to receive veTokens
 
