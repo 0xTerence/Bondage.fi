@@ -1,6 +1,10 @@
 # VeMe
 ### paperhandsprotection 🔒 
 
+removing the ability to fumble a bag
+
+~forced left curvature~
+
 users deposit erc20 tokens in VeMe to receive veTokens
 
 all tokens are locked for a period of 12h from time of deposit in VeMe, within those 12 hours, veToken holders vote to extend or reduce timelock
