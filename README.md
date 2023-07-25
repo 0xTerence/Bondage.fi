@@ -11,6 +11,7 @@ users deposit erc20 tokens in Bondage Finance to receive veTokens
 
 all tokens are locked for a period of 12h from time of deposit in protocol, within those 12 hours, veToken holders vote to extend or reduce timelock
 > timelock voting affects all veTokens, beginning immediately after the conclusion of h12
+
 > voting cycles operate on 4 hour rolling window, 3 cycles per initial 12h
 
 ### roadmap 
