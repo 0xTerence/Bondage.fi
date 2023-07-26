@@ -19,10 +19,12 @@ launch Bondage fi
 
 implement oracle based unlocks (ie all VeTokens unlock at 5x)
 
-implement take profit (5x, 10x, 100x)
+implement auto take profit (5x, 10x, 100x)
 
-distribute BDSM
+distribute BDSM, earn during timelock duration
 
 introduce pool based timelocks
 
 introduce pool voting with BDSM
+
+nft lock implementation
