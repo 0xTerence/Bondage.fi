@@ -5,6 +5,8 @@ removing the ability to fumble a bag
 
 bondage as a service
 
+Shitcoin lockers as a service
+
 ~ forced left curvature ~
 
 users deposit erc20 tokens in Bondage Finance to receive veTokens
